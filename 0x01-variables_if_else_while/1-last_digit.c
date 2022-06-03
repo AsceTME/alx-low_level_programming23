@@ -6,10 +6,10 @@
 
 /**
  *
- *  * Main -  a random number to the variable n executed everytime 
+ *  * main -  a random number to the variable n executed everytime 
  *   * The string Last digit of n
- *    * Return: 0
- *     */
+ * * Return: 0
+ */
 int main(void)
 
 {
