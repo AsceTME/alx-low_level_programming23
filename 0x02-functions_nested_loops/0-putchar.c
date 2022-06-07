@@ -6,7 +6,7 @@
 
 /**
  *
- *  * main - print
+ *  * main - Entry point
  *
  *   *
  *
