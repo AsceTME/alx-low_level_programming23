@@ -1,14 +1,16 @@
-#include "0-putchar.c"
+#include "main.h"
+
+
 
 
 
 /**
  *
- *  * main - program that prints _putchar
+ *  * main - print
  *
  *   *
  *
- *    * Return: 0
+ *    * Return: nothing, return void
  *
  *     */
 
@@ -18,24 +20,26 @@ int main(void)
 
 {
 
-		int n = 0;
+	_putchar('_');
 
-			char str_hbt[8] = "_putchar";
+	_putchar('p');
+
+	_putchar('u');
+
+	_putchar('t');
+
+	_putchar('c');
+
+	_putchar('h');
+
+	_putchar('a');
+
+	_putchar('r');
+
+	_putchar('\n');
 
 
 
-				while (n < 8)
-				
-						{
-
-									_putchar(str_hbt[n]);
-
-											n += 1;
-
-												}
-
-					_putchar('\n');
-
-						return (0);
+	return (0);
 
 }
