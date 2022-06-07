@@ -1,4 +1,4 @@
-#include "_putchar.c"
+#include "0-putchar.c"
 
 
 
@@ -30,7 +30,7 @@ int main(void)
 
 									_putchar(str_hbt[n]);
 
-											n += 0;
+											n += 8;
 
 												}
 
