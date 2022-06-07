@@ -25,12 +25,12 @@ int main(void)
 
 
 				while (n < 8)
-
+				
 						{
 
 									_putchar(str_hbt[n]);
 
-											n += 8;
+											n += 1;
 
 												}
 
